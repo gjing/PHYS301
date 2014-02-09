@@ -1,0 +1,4 @@
+Q1: None of the 10 graphs end at exactly 0 but 4 of them ended within +-10
+Q2: The Average of the 10 graphs at the thousandth appears to be close to 0
+Q3: It increases
+Q4: It seems to increase less than linerly
